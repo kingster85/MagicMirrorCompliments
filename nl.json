@@ -1,31 +1,31 @@
 {
         "anytime" : [
-                "Je ziet er geweldig uit vandaag!",
-                "Wat een geweldige dag vandaag!",
+                "Je ziet er goed uit vandaag!",
+                "Maak er wat van vandaag!",
                 "Jij maakt vandaag het verschil!",
-                "Een prachtige lach, voor een prachtige dag",
-                "Kijk je nog steeds naar de spiegel?",
-                "Hallo, ik ben El, Spieg El"
+                "Wat zit je haar weer fantastisch :)",
+                "Hallo, heb je 't?",
+                "Je ben om op te eten!"
 
         ],
         "morning" : [
                 "Wat zit je haar weer goed vandaag!",
-                "Begin de dag met een lach!",
+                "Begin de dag met een lach, Björn!",
                 "Het zal weer een prachtige dag worden!",
-                "Is het niet een leuke dag?",
+                "Je heb zeker niet goed geslapen?",
                 "Bereid je voor op een leuke dag!"
         ],
         "afternoon" : [
-                "Nog even je werk afmaken...",
-                "Middag, niet de avond, niet de ochtend",
-                "Is dit niet een leuke dag?",
-                "Bijna etenstijd!"
+                "Stofzuigen, dweilen, ramen zemen, pfff..",
+                "'t is middag, niet avond, niet ochtend",
+                "En hoe vind je het gaan vandaag?",
+                "Bijna etenstijd! Honger!"
         ],
         "evening" : [
-                "En nu op naar de vergadering.",
-                "Eet smakelijk!",
+                "Bijna bed tijd!",
+                "Ben je ook zo moe?",
                 "Even rust, heerlijk....",
-                "Jij hebt het verschil gemaakt!",
+                "Jij was fantastisch vandaag!",
                 "Was het eten lekker?"
         ]
 }
