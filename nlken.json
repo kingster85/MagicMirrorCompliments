@@ -42,4 +42,16 @@
                 "Jij ben zó goed bezig vandaag!",
                 "Veel bereikt vandaag, kanjer!"
         ]
+        "...-01-01": [
+		"Gelukkig Nieuw Jaar!"
+		]
+        "...-12-25": [
+		"Fijne eerste kerstdag!"
+		]
+        "...-12-26": [
+		"Fijne tweede kerstdag!"
+		]
+        "...-12-31": [
+		"Laat die champagne maar knallen!"
+		]
 }
