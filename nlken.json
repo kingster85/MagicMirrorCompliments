@@ -10,8 +10,8 @@
                 "Je ben om op te eten!",
                 "Jij brengt warmte en licht...",
                 "Kijk eens naar jezelf, dikke.",
-                "Elke dag met jou is fantastich!",
-        ],
+                "Elke dag met jou is fantastich!"
+	],
         "morning" : [
                 "Wat zit je haar weer goed vandaag!",
                 "Begin de dag met een lach, Björn!",
@@ -19,7 +19,7 @@
                 "Je heb zeker niet goed geslapen?",
                 "Heb jij een bui, Oeleh?",
                 "Bereid je voor op een leuke dag!",
-                "Wees je beste zelf vandaag.",
+                "Wees je beste zelf vandaag."
         ],
         "afternoon" : [
                 "Stofzuigen, dweilen, pfoe...",
@@ -29,7 +29,7 @@
                 "Bijna etenstijd! Honger!",
                 "Hatseflats, dat was 'm weer!",
                 "Wat je doet, je doet t goed!",
-                "Tijd om te ontspannen, Gerda!",
+                "Tijd om te ontspannen, Gerda!"
         ],
         "evening" : [
                 "Bijna bed tijd!",
@@ -42,16 +42,8 @@
                 "Jij ben zó goed bezig vandaag!",
                 "Veel bereikt vandaag, kanjer!"
         ],
-        "...-01-01" : [
-		"Gelukkig Nieuw Jaar!",
-		],
-        "...-12-25" : [
-		"Fijne eerste kerstdag!",
-		],
-        "...-12-26" : [
-		"Fijne tweede kerstdag!",
-		],
-        "...-12-31" : [
-		"Laat die champagne maar knallen!",
-		]
+        "...-01-01" : ["Gelukkig Nieuw Jaar!"],
+        "...-12-25" : ["Fijne eerste kerstdag!"],
+        "...-12-26" : ["Fijne tweede kerstdag!"],
+        "...-12-31" : ["Laat die champagne maar knallen!"]
 }
