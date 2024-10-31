@@ -5,27 +5,41 @@
                 "Jij maakt vandaag het verschil!",
                 "Wat zit je haar weer fantastisch :)",
                 "Hallo, heb je 't?",
-                "Je ben om op te eten!"
-
+                "Jij ben vandaag het zonnetje!",
+                "Je doet het beter dan je denkt!",
+                "Je ben om op te eten!",
+                "Jij brengt warmte en licht...",
+                "Kijk eens naar jezelf, dikke.",
+                "Elke dag met jou is fantastich!"
         ],
         "morning" : [
                 "Wat zit je haar weer goed vandaag!",
                 "Begin de dag met een lach, Björn!",
-                "Het zal weer een prachtige dag worden!",
+                "Het zal een prachtige dag worden!",
                 "Je heb zeker niet goed geslapen?",
-                "Bereid je voor op een leuke dag!"
+                "Heb jij een bui, Oeleh?",
+                "Bereid je voor op een leuke dag!",
+                "Wees je beste zelf vandaag."
         ],
         "afternoon" : [
                 "Stofzuigen, dweilen, pfoe...",
+                "Even acclimatiseren, Charrel!",
                 "Oh Jan, wat zit je haar mooi.",
                 "En hoe vind je het gaan vandaag?",
-                "Bijna etenstijd! Honger!"
+                "Bijna etenstijd! Honger!",
+                "Hatseflats, dat was 'm weer!",
+                "Wat je doet, je doet t goed!",
+                "Tijd om te ontspannen, Gerda!"
         ],
         "evening" : [
                 "Bijna bed tijd!",
                 "Ben je ook zo moe?",
                 "Even rust, heerlijk....",
                 "Jij was fantastisch vandaag!",
-                "Was het eten lekker?"
+                "Was het eten lekker?",
+                "Welterusten zometeen!",
+                "Zo, weer volgevroten?",
+                "Jij ben zó goed bezig vandaag!",
+                "Veel bereikt vandaag, kanjer!"
         ]
 }
